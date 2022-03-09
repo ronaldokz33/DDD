@@ -1,0 +1,16 @@
+C:\WS\Estudo\Projeto1\Api.Data\bin\Debug\netcoreapp3.1\Api.Data.deps.json
+C:\WS\Estudo\Projeto1\Api.Data\bin\Debug\netcoreapp3.1\Api.Data.dll
+C:\WS\Estudo\Projeto1\Api.Data\bin\Debug\netcoreapp3.1\Api.Data.pdb
+C:\WS\Estudo\Projeto1\Api.Data\obj\Debug\netcoreapp3.1\Api.Data.csproj.AssemblyReference.cache
+C:\WS\Estudo\Projeto1\Api.Data\obj\Debug\netcoreapp3.1\Api.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\WS\Estudo\Projeto1\Api.Data\obj\Debug\netcoreapp3.1\Api.Data.AssemblyInfoInputs.cache
+C:\WS\Estudo\Projeto1\Api.Data\obj\Debug\netcoreapp3.1\Api.Data.AssemblyInfo.cs
+C:\WS\Estudo\Projeto1\Api.Data\obj\Debug\netcoreapp3.1\Api.Data.csproj.CoreCompileInputs.cache
+C:\WS\Estudo\Projeto1\Api.Data\obj\Debug\netcoreapp3.1\Api.Data.dll
+C:\WS\Estudo\Projeto1\Api.Data\obj\Debug\netcoreapp3.1\Api.Data.pdb
+C:\WS\Estudo\Projeto1\Api.Data\bin\Debug\netcoreapp3.1\Api.Data.runtimeconfig.json
+C:\WS\Estudo\Projeto1\Api.Data\bin\Debug\netcoreapp3.1\Api.Data.runtimeconfig.dev.json
+C:\WS\Estudo\Projeto1\Api.Data\obj\Debug\netcoreapp3.1\Api.Data.genruntimeconfig.cache
+C:\WS\Estudo\Projeto1\Api.Data\bin\Debug\netcoreapp3.1\Api.Domain.dll
+C:\WS\Estudo\Projeto1\Api.Data\bin\Debug\netcoreapp3.1\Api.Domain.pdb
+C:\WS\Estudo\Projeto1\Api.Data\obj\Debug\netcoreapp3.1\Api.Data.csproj.CopyComplete

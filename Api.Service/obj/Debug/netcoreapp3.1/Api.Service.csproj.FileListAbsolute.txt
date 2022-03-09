@@ -1,0 +1,15 @@
+C:\WS\Estudo\Projeto1\Api.Service\bin\Debug\netcoreapp3.1\Api.Service.deps.json
+C:\WS\Estudo\Projeto1\Api.Service\bin\Debug\netcoreapp3.1\Api.Service.dll
+C:\WS\Estudo\Projeto1\Api.Service\bin\Debug\netcoreapp3.1\Api.Service.pdb
+C:\WS\Estudo\Projeto1\Api.Service\obj\Debug\netcoreapp3.1\Api.Service.csproj.AssemblyReference.cache
+C:\WS\Estudo\Projeto1\Api.Service\obj\Debug\netcoreapp3.1\Api.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\WS\Estudo\Projeto1\Api.Service\obj\Debug\netcoreapp3.1\Api.Service.AssemblyInfoInputs.cache
+C:\WS\Estudo\Projeto1\Api.Service\obj\Debug\netcoreapp3.1\Api.Service.AssemblyInfo.cs
+C:\WS\Estudo\Projeto1\Api.Service\obj\Debug\netcoreapp3.1\Api.Service.csproj.CoreCompileInputs.cache
+C:\WS\Estudo\Projeto1\Api.Service\obj\Debug\netcoreapp3.1\Api.Service.dll
+C:\WS\Estudo\Projeto1\Api.Service\obj\Debug\netcoreapp3.1\Api.Service.pdb
+C:\WS\Estudo\Projeto1\Api.Service\bin\Debug\netcoreapp3.1\Api.Data.dll
+C:\WS\Estudo\Projeto1\Api.Service\bin\Debug\netcoreapp3.1\Api.Domain.dll
+C:\WS\Estudo\Projeto1\Api.Service\bin\Debug\netcoreapp3.1\Api.Data.pdb
+C:\WS\Estudo\Projeto1\Api.Service\bin\Debug\netcoreapp3.1\Api.Domain.pdb
+C:\WS\Estudo\Projeto1\Api.Service\obj\Debug\netcoreapp3.1\Api.Service.csproj.CopyComplete
