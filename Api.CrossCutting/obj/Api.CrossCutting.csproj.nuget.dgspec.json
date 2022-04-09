@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\WS\\Estudo\\Projeto1\\Api.CrossCutting\\Api.CrossCutting.csproj": {}
+    "C:\\WS\\Estudo\\DDD\\Api.CrossCutting\\Api.CrossCutting.csproj": {}
   },
   "projects": {
-    "C:\\WS\\Estudo\\Projeto1\\Api.CrossCutting\\Api.CrossCutting.csproj": {
+    "C:\\WS\\Estudo\\DDD\\Api.CrossCutting\\Api.CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WS\\Estudo\\Projeto1\\Api.CrossCutting\\Api.CrossCutting.csproj",
+        "projectUniqueName": "C:\\WS\\Estudo\\DDD\\Api.CrossCutting\\Api.CrossCutting.csproj",
         "projectName": "Api.CrossCutting",
-        "projectPath": "C:\\WS\\Estudo\\Projeto1\\Api.CrossCutting\\Api.CrossCutting.csproj",
+        "projectPath": "C:\\WS\\Estudo\\DDD\\Api.CrossCutting\\Api.CrossCutting.csproj",
         "packagesPath": "C:\\Users\\lemosra\\.nuget\\packages\\",
-        "outputPath": "C:\\WS\\Estudo\\Projeto1\\Api.CrossCutting\\obj\\",
+        "outputPath": "C:\\WS\\Estudo\\DDD\\Api.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lemosra\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,14 +28,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\WS\\Estudo\\Projeto1\\Api.Data\\Api.Data.csproj": {
-                "projectPath": "C:\\WS\\Estudo\\Projeto1\\Api.Data\\Api.Data.csproj"
+              "C:\\WS\\Estudo\\DDD\\Api.Data\\Api.Data.csproj": {
+                "projectPath": "C:\\WS\\Estudo\\DDD\\Api.Data\\Api.Data.csproj"
               },
-              "C:\\WS\\Estudo\\Projeto1\\Api.Domain\\Api.Domain.csproj": {
-                "projectPath": "C:\\WS\\Estudo\\Projeto1\\Api.Domain\\Api.Domain.csproj"
+              "C:\\WS\\Estudo\\DDD\\Api.Domain\\Api.Domain.csproj": {
+                "projectPath": "C:\\WS\\Estudo\\DDD\\Api.Domain\\Api.Domain.csproj"
               },
-              "C:\\WS\\Estudo\\Projeto1\\Api.Service\\Api.Service.csproj": {
-                "projectPath": "C:\\WS\\Estudo\\Projeto1\\Api.Service\\Api.Service.csproj"
+              "C:\\WS\\Estudo\\DDD\\Api.Service\\Api.Service.csproj": {
+                "projectPath": "C:\\WS\\Estudo\\DDD\\Api.Service\\Api.Service.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "C:\\WS\\Estudo\\Projeto1\\Api.Data\\Api.Data.csproj": {
+    "C:\\WS\\Estudo\\DDD\\Api.Data\\Api.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WS\\Estudo\\Projeto1\\Api.Data\\Api.Data.csproj",
+        "projectUniqueName": "C:\\WS\\Estudo\\DDD\\Api.Data\\Api.Data.csproj",
         "projectName": "Api.Data",
-        "projectPath": "C:\\WS\\Estudo\\Projeto1\\Api.Data\\Api.Data.csproj",
+        "projectPath": "C:\\WS\\Estudo\\DDD\\Api.Data\\Api.Data.csproj",
         "packagesPath": "C:\\Users\\lemosra\\.nuget\\packages\\",
-        "outputPath": "C:\\WS\\Estudo\\Projeto1\\Api.Data\\obj\\",
+        "outputPath": "C:\\WS\\Estudo\\DDD\\Api.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lemosra\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -102,8 +102,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\WS\\Estudo\\Projeto1\\Api.Domain\\Api.Domain.csproj": {
-                "projectPath": "C:\\WS\\Estudo\\Projeto1\\Api.Domain\\Api.Domain.csproj"
+              "C:\\WS\\Estudo\\DDD\\Api.Domain\\Api.Domain.csproj": {
+                "projectPath": "C:\\WS\\Estudo\\DDD\\Api.Domain\\Api.Domain.csproj"
               }
             }
           }
@@ -154,14 +154,14 @@
         }
       }
     },
-    "C:\\WS\\Estudo\\Projeto1\\Api.Domain\\Api.Domain.csproj": {
+    "C:\\WS\\Estudo\\DDD\\Api.Domain\\Api.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WS\\Estudo\\Projeto1\\Api.Domain\\Api.Domain.csproj",
+        "projectUniqueName": "C:\\WS\\Estudo\\DDD\\Api.Domain\\Api.Domain.csproj",
         "projectName": "Api.Domain",
-        "projectPath": "C:\\WS\\Estudo\\Projeto1\\Api.Domain\\Api.Domain.csproj",
+        "projectPath": "C:\\WS\\Estudo\\DDD\\Api.Domain\\Api.Domain.csproj",
         "packagesPath": "C:\\Users\\lemosra\\.nuget\\packages\\",
-        "outputPath": "C:\\WS\\Estudo\\Projeto1\\Api.Domain\\obj\\",
+        "outputPath": "C:\\WS\\Estudo\\DDD\\Api.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lemosra\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -214,14 +214,14 @@
         }
       }
     },
-    "C:\\WS\\Estudo\\Projeto1\\Api.Service\\Api.Service.csproj": {
+    "C:\\WS\\Estudo\\DDD\\Api.Service\\Api.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WS\\Estudo\\Projeto1\\Api.Service\\Api.Service.csproj",
+        "projectUniqueName": "C:\\WS\\Estudo\\DDD\\Api.Service\\Api.Service.csproj",
         "projectName": "Api.Service",
-        "projectPath": "C:\\WS\\Estudo\\Projeto1\\Api.Service\\Api.Service.csproj",
+        "projectPath": "C:\\WS\\Estudo\\DDD\\Api.Service\\Api.Service.csproj",
         "packagesPath": "C:\\Users\\lemosra\\.nuget\\packages\\",
-        "outputPath": "C:\\WS\\Estudo\\Projeto1\\Api.Service\\obj\\",
+        "outputPath": "C:\\WS\\Estudo\\DDD\\Api.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lemosra\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -238,11 +238,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\WS\\Estudo\\Projeto1\\Api.Data\\Api.Data.csproj": {
-                "projectPath": "C:\\WS\\Estudo\\Projeto1\\Api.Data\\Api.Data.csproj"
+              "C:\\WS\\Estudo\\DDD\\Api.Data\\Api.Data.csproj": {
+                "projectPath": "C:\\WS\\Estudo\\DDD\\Api.Data\\Api.Data.csproj"
               },
-              "C:\\WS\\Estudo\\Projeto1\\Api.Domain\\Api.Domain.csproj": {
-                "projectPath": "C:\\WS\\Estudo\\Projeto1\\Api.Domain\\Api.Domain.csproj"
+              "C:\\WS\\Estudo\\DDD\\Api.Domain\\Api.Domain.csproj": {
+                "projectPath": "C:\\WS\\Estudo\\DDD\\Api.Domain\\Api.Domain.csproj"
               }
             }
           }

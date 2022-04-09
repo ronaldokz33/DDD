@@ -8512,11 +8512,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\WS\\Estudo\\Projeto1\\Api.Data.Test\\Api.Data.Test.csproj",
+      "projectUniqueName": "C:\\WS\\Estudo\\DDD\\Api.Data.Test\\Api.Data.Test.csproj",
       "projectName": "Api.Data.Test",
-      "projectPath": "C:\\WS\\Estudo\\Projeto1\\Api.Data.Test\\Api.Data.Test.csproj",
+      "projectPath": "C:\\WS\\Estudo\\DDD\\Api.Data.Test\\Api.Data.Test.csproj",
       "packagesPath": "C:\\Users\\lemosra\\.nuget\\packages\\",
-      "outputPath": "C:\\WS\\Estudo\\Projeto1\\Api.Data.Test\\obj\\",
+      "outputPath": "C:\\WS\\Estudo\\DDD\\Api.Data.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lemosra\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8533,14 +8533,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\WS\\Estudo\\Projeto1\\Api.CrossCutting\\Api.CrossCutting.csproj": {
-              "projectPath": "C:\\WS\\Estudo\\Projeto1\\Api.CrossCutting\\Api.CrossCutting.csproj"
+            "C:\\WS\\Estudo\\DDD\\Api.CrossCutting\\Api.CrossCutting.csproj": {
+              "projectPath": "C:\\WS\\Estudo\\DDD\\Api.CrossCutting\\Api.CrossCutting.csproj"
             },
-            "C:\\WS\\Estudo\\Projeto1\\Api.Data\\Api.Data.csproj": {
-              "projectPath": "C:\\WS\\Estudo\\Projeto1\\Api.Data\\Api.Data.csproj"
+            "C:\\WS\\Estudo\\DDD\\Api.Data\\Api.Data.csproj": {
+              "projectPath": "C:\\WS\\Estudo\\DDD\\Api.Data\\Api.Data.csproj"
             },
-            "C:\\WS\\Estudo\\Projeto1\\Api.Domain\\Api.Domain.csproj": {
-              "projectPath": "C:\\WS\\Estudo\\Projeto1\\Api.Domain\\Api.Domain.csproj"
+            "C:\\WS\\Estudo\\DDD\\Api.Domain\\Api.Domain.csproj": {
+              "projectPath": "C:\\WS\\Estudo\\DDD\\Api.Domain\\Api.Domain.csproj"
             }
           }
         }

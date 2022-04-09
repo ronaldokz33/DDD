@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GcbuFbfE6wbI345aCDemn657BMYI+EfmJuEvnDlkwEQyofC5+Rx3dgEkYmMKtBD86HcXLD8Wc/q/evxsU+Aw6w==",
+  "dgSpecHash": "YcwFdLS3wd8DUI4wCf3Ol0A6Hh/T9/K5/6SZYO7kiWflfYyIQ1PWfZMEpl6kRcCZDErodUspak26b+ysPGnURw==",
   "success": true,
-  "projectFilePath": "C:\\WS\\Estudo\\Projeto1\\Api.Data\\Api.Data.csproj",
+  "projectFilePath": "C:\\WS\\Estudo\\DDD\\Api.Data\\Api.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lemosra\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\lemosra\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

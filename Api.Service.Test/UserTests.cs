@@ -1,4 +1,5 @@
-﻿using Api.Domain.Interfaces.Services.User;
+﻿using Api.Domain.Dtos;
+using Api.Domain.Interfaces.Services.User;
 using Api.Service.Test.Mocks.Users;
 using Moq;
 using System;
@@ -10,7 +11,7 @@ using Xunit;
 
 namespace Api.Service.Test
 {
-    public class GetExecution : UsersTests
+    public class UserTests : UsersTests
     {
         private IUserService _service;
         private Mock<IUserService> _serviceMock;
@@ -87,6 +88,33 @@ namespace Api.Service.Test
             var _register = await _service.Delete(Id);
 
             Assert.True(_register);
+        }
+
+        [Fact(DisplayName = "Is possible find by login")]
+        public async Task FindByLogin()
+        {
+            var email = Faker.Internet.Email();
+            var returnObject = new
+            {
+                authenticated = true,
+                created = DateTime.Now,
+                expiration = DateTime.Now.AddHours(8),
+                accessToken = Guid.NewGuid(),
+                userName = user.Email,
+                message = "Usuário logado com sucesso"
+            };
+
+            var loginDto = new LoginDto()
+            {
+                Email = email
+            };
+
+            var _loginServiceMock = new Mock<ILoginService>();
+            _loginServiceMock.Setup(m => m.FindByLogin(loginDto)).ReturnsAsync(returnObject);
+
+            var _loginService = _serviceMock.Object;
+
+            var _register = await _service.Delete(Id);
         }
     }
 }

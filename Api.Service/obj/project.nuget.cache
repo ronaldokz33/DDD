@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OR0JX+tUXwRSEriGQN34JhqLiO4foaaWcONLP+Y9Oi0mPcfAhD/wGbcmB1UAVIQbvcVP6ruXLmLBId59ba7oSQ==",
+  "dgSpecHash": "jt0pcczZDiocwu+IgSajuOQeij5GaVo09Fc1WuuX6rPT3+DwRCtOVdNcRItQWwHQby+wIbYpmhqa66IbGslmjA==",
   "success": true,
-  "projectFilePath": "C:\\WS\\Estudo\\Projeto1\\Api.Service\\Api.Service.csproj",
+  "projectFilePath": "C:\\WS\\Estudo\\DDD\\Api.Service\\Api.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lemosra\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\lemosra\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
