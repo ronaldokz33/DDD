@@ -51,7 +51,14 @@ namespace Api.Application.Controllers
 
             try
             {
-                return Ok(await _service.Get(id));
+                var user = await _service.Get(id);
+
+                if (user == null || user.Id == default(Guid))
+                {
+                    return NotFound();
+                }
+
+                return Ok(user);
             }
             catch (ArgumentException e)
             {

@@ -71,7 +71,7 @@ namespace Api.Service.Test.Mocks.Users
                 Id = Id,
                 Name = Name,
                 Email = Email,
-                UpdateddAt = DateTime.UtcNow
+                UpdatedAt = DateTime.UtcNow
             };
         }
     }

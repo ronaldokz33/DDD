@@ -8,3 +8,13 @@ C:\WS\Estudo\Projeto1\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.csproj.CoreC
 C:\WS\Estudo\Projeto1\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.dll
 C:\WS\Estudo\Projeto1\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.pdb
 C:\WS\Estudo\Projeto1\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.csproj.AssemblyReference.cache
+C:\WS\Estudo\DDD\Api.Domain\bin\Debug\netcoreapp3.1\Api.Domain.deps.json
+C:\WS\Estudo\DDD\Api.Domain\bin\Debug\netcoreapp3.1\Api.Domain.dll
+C:\WS\Estudo\DDD\Api.Domain\bin\Debug\netcoreapp3.1\Api.Domain.pdb
+C:\WS\Estudo\DDD\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.csproj.AssemblyReference.cache
+C:\WS\Estudo\DDD\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\WS\Estudo\DDD\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.AssemblyInfoInputs.cache
+C:\WS\Estudo\DDD\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.AssemblyInfo.cs
+C:\WS\Estudo\DDD\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.csproj.CoreCompileInputs.cache
+C:\WS\Estudo\DDD\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.dll
+C:\WS\Estudo\DDD\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.pdb

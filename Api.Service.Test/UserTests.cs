@@ -112,9 +112,11 @@ namespace Api.Service.Test
             var _loginServiceMock = new Mock<ILoginService>();
             _loginServiceMock.Setup(m => m.FindByLogin(loginDto)).ReturnsAsync(returnObject);
 
-            var _loginService = _serviceMock.Object;
+            var _loginService = _loginServiceMock.Object;
 
-            var _register = await _service.Delete(Id);
+            var _user = await _loginService.FindByLogin(loginDto);
+
+            Assert.NotNull(_user);
         }
     }
 }

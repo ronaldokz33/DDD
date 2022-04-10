@@ -28,8 +28,6 @@ namespace Api.Service.Test.AutoMapper
             Assert.Equal(modelToEntity.Id, model.Id);
             Assert.Equal(modelToEntity.Name, model.Name);
             Assert.Equal(modelToEntity.Email, model.Email);
-            Assert.Equal(modelToEntity.CreatedAt, model.CreateAt);
-            Assert.Equal(modelToEntity.UpdatedAt, model.UpdateAt);
 
             var entityToDto = Mapper.Map<UserDto>(modelToEntity);
 

@@ -22,12 +22,14 @@ namespace Projeto1
 {
     public class Startup
     {
-        public Startup(IConfiguration configuration)
+        public Startup(IConfiguration configuration, IWebHostEnvironment webHostEnvironment)
         {
             Configuration = configuration;
+            _Environment = webHostEnvironment;
         }
 
         public IConfiguration Configuration { get; }
+        public IWebHostEnvironment _Environment { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
@@ -50,9 +52,21 @@ namespace Projeto1
             services.AddSingleton(signingConfigurations);
 
             var tokenConfigurations = new TokenConfigurations();
-            new ConfigureFromConfigurationOptions<TokenConfigurations>(
-                    Configuration.GetSection("TokenConfigurations"))
-                    .Configure(tokenConfigurations);
+
+            if (_Environment.IsEnvironment("testing"))
+            {
+                tokenConfigurations.Audience = "ExemploAudience";
+                tokenConfigurations.Issuer = "ExemploIssuer";
+                tokenConfigurations.Seconds = 120;
+            }
+            else
+            {
+                new ConfigureFromConfigurationOptions<TokenConfigurations>(
+                        Configuration.GetSection("TokenConfigurations"))
+                        .Configure(tokenConfigurations);
+            }
+
+
             services.AddSingleton(tokenConfigurations);
 
             services.AddAuthentication(authOptions =>

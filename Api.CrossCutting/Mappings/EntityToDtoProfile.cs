@@ -19,6 +19,9 @@ namespace Api.CrossCutting.Mappings
 
             CreateMap<UserUpdateResultDto, UserEntity>()
                 .ReverseMap();
+
+            CreateMap<UserDto, UserEntity>()
+                .ReverseMap();
         }
     }
 }
